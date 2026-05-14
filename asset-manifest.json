@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ganga-tv/static/css/main.5082e589.css",
+    "main.js": "/ganga-tv/static/js/main.6e6c302d.js",
+    "static/media/gangatv.png": "/ganga-tv/static/media/gangatv.384389acf65e7f72836a.png",
+    "index.html": "/ganga-tv/index.html",
+    "main.5082e589.css.map": "/ganga-tv/static/css/main.5082e589.css.map",
+    "main.6e6c302d.js.map": "/ganga-tv/static/js/main.6e6c302d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5082e589.css",
+    "static/js/main.6e6c302d.js"
+  ]
+}
